@@ -1,0 +1,21 @@
+{
+    "name": "BDG Win || BDG Game",
+    "short_name": "BDGwin",
+    "description": "BDG win || BDG Game indean color prediction Game",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "img/bdg-win-favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/bdg-win-favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
